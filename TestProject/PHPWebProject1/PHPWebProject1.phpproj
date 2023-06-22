@@ -1,0 +1,21 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>664312fa-5809-493f-a6f3-4652f01f80af</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.0</RuntimeVersion>
+    <SpecificPageValue>getClassFromSemester.php</SpecificPageValue>
+    <StartAction>SpecificPage</StartAction>
+    <RootNamespace>PHPWebProject1</RootNamespace>
+    <WebRoot />
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Update="index.php">
+      <SubType>Code</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\" />
+  </ItemGroup>
+</Project>
